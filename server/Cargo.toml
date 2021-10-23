@@ -1,0 +1,12 @@
+[package]
+name = "moanmyip_server"
+version = "0.1.1"
+authors = ["Vojtěch Jungmann <vojta.jungmann@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+async-std = { version = "1.10.0", features = ["attributes"], default-features = false }
+tide = { version = "0.16.0", features = ["h1-server"] ,default-features = false }
+wav = "1.0.0"
+maud = "0.22.3"
+rand = "0.8.4"

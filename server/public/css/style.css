@@ -1,0 +1,142 @@
+body {
+  text-align:center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  padding: 10px 0 0 0;
+  margin: 0;
+}
+
+.logo {
+  width: 249px;
+  height: 107px;
+}
+
+.center {
+  margin: 0 auto;
+  width: 950px;
+  text-align:left;
+}
+
+.content {
+  border-left: 3px solid red;
+  border-right: 3px solid red;
+  padding: 0px 0px 0px 0px;
+  margin: 10px 0px 0px 0px;
+}
+
+.google {
+  text-align: center;
+  margin: 0px auto 20px auto;
+}
+
+.google2 {
+  text-align: center;
+  margin: 10px auto 5px auto;
+}
+
+.buttons {
+  margin: 10px auto 0 auto;
+  text-align: center;
+}
+
+.subcontent {
+  margin: 0;
+  padding: 5px 10px 5px 10px;
+}
+
+.subcontent_group {
+  margin: 0 0 12px 0;
+  padding: 0;
+}
+
+h2 {
+  background-color: #ff0000;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 4px 6px;
+  margin: 0 0 5px 0;
+  text-transform: uppercase;
+}
+
+h5 {
+  background-color: #ff0000;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 10px;
+  padding: 3px 6px 4px 6px;
+  margin: 0;
+  text-align: right;
+}
+
+h5 a:link, h5 a:visited, h5 a:active, h5 a:hover { color :#FFF; text-decoration: none }
+
+h5 a:hover { text-decoration: underline } 
+
+h4 {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0 0 1px 0;
+  margin: 0 0 3px 0;
+  border-bottom: 1px solid #000;
+}
+
+.ip {
+  margin: 15px 0 0 0;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+#player {
+  margin: 10px auto 10px auto;
+  text-align: center;
+}
+
+#audio-container {
+  margin: 10px auto 10px auto;
+  max-width:480px;
+  height:30px;
+}
+
+.mejs-container {
+  box-shadow:0 0 18px rgba(0, 0, 0, .2);
+}
+
+#copyforms {
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+
+.links {
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+  width: 88px;
+  float:right;
+}
+
+.links img {
+  width:88px;
+  height: 31px;
+  border: 0 none transparent;
+  margin-top: 2px;
+}
+
+.linkcodes {
+  width: 508px;
+  height: 75px;
+  margin-top: 3px;
+}
+
+img {
+  border: 0;
+}
+
+#maintable
+{
+  margin: 0px auto 0px auto;
+  text-align: center;
+}
